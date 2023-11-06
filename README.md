@@ -10,4 +10,4 @@ You can also see the solution in my [exercism public profile]([url](https://exer
 Please note that this repository currently includes solutions only in Kotlin and Lua, but I may expand to other languages in the future.
 License
 
-This project is licensed under the MIT License - see the [LICENSE]([url](https://github.com/gilarc/myExercismSolutions/blob/main/LICENSE)https://github.com/gilarc/myExercismSolutions/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE]([LICENSE) file for details.
