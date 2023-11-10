@@ -1,5 +1,5 @@
 # myExercismSolutions
-This repository contains my solutions for Exercism.org challenges, primarily in Kotlin and Lua.
+This repository contains my solutions for [exercism.org](https://exercism.org/) challenges, primarily in Kotlin and Lua.
 Languages
 
 - ![Kotlin](https://img.shields.io/badge/Language-Kotlin-blue)
