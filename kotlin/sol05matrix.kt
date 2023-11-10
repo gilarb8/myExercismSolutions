@@ -1,5 +1,5 @@
 // MIT License
-// Copyright (c) 2023 Gillar Prasatya
+// Copyright (c) 2023 Gillar Ajie Prasatya
 
 class Matrix(private val matrixAsString: String) {
     private val matrix: List<List<Int>>

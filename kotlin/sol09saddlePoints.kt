@@ -1,5 +1,5 @@
 // MIT License
-// Copyright (c) 2023 Gillar Prasatya
+// Copyright (c) 2023 Gillar Ajie Prasatya
 
 data class MatrixCoordinate(val row: Int, val col: Int)
 

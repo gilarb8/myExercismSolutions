@@ -1,5 +1,5 @@
 // MIT License
-// Copyright (c) 2023 Gillar Prasatya
+// Copyright (c) 2023 Gillar Ajie Prasatya
 
 object Hamming {
     // Compute the Hamming Distance between two DNA strands.

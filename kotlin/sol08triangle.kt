@@ -1,5 +1,5 @@
 // MIT License
-// Copyright (c) 2023 Gillar Prasatya
+// Copyright (c) 2023 Gillar Ajie Prasatya
 
 class Triangle<out T : Number>(val a: T, val b: T, val c: T) {
     // Triangle class representing a geometric triangle with sides a, b, and c.

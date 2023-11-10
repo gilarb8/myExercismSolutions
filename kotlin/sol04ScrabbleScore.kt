@@ -1,5 +1,5 @@
 // MIT License
-// Copyright (c) 2023 Gillar Prasatya
+// Copyright (c) 2023 Gillar Ajie Prasatya
 
 object ScrabbleScore {
     // define a mapping of letter values using a map. each letter associated with its corresponding scrabble score.
