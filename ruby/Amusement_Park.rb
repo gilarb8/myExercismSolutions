@@ -1,3 +1,7 @@
+# MIT License
+# Copyright (c) 2024 Gillar Ajie Prasatya
+# See LICENSE file for details.
+
 class Attendee
   # Initializes a new Attendee instance with a given height.
   def initialize(height)

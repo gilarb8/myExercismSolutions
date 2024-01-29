@@ -1,3 +1,7 @@
+# MIT License
+# Copyright (c) 2024 Gillar Ajie Prasatya
+# See LICENSE file for details.
+
 class Lasagna
   EXPECTED_MINUTES_IN_OVEN = 40
   PREPARATION_TIME_PER_LAYER = 2
